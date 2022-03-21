@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ef83daa.css",
+    "main.js": "/static/js/main.ea85a4a4.js",
+    "static/js/787.62f7974d.chunk.js": "/static/js/787.62f7974d.chunk.js",
+    "static/media/trash-can-regular.svg": "/static/media/trash-can-regular.6f5c9756ee61805a72f3a70dd02df052.svg",
+    "static/media/pen-to-square-regular.svg": "/static/media/pen-to-square-regular.4336f3d7203f9055ca9c4e31b5f8c677.svg",
+    "index.html": "/index.html",
+    "main.7ef83daa.css.map": "/static/css/main.7ef83daa.css.map",
+    "main.ea85a4a4.js.map": "/static/js/main.ea85a4a4.js.map",
+    "787.62f7974d.chunk.js.map": "/static/js/787.62f7974d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef83daa.css",
+    "static/js/main.ea85a4a4.js"
+  ]
+}
